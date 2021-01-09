@@ -1,1 +1,1 @@
-### My express.js API
+[![Build Status](https://dev.azure.com/alexararick26/Alexas%20API/_apis/build/status/alexasapi%20-%20CI?branchName=master)](https://dev.azure.com/alexararick26/Alexas%20API/_build/latest?definitionId=1&branchName=master)
